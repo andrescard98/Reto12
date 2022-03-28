@@ -1,0 +1,41 @@
+.imgNFT{
+    width: 8em;
+}
+
+.textoJustificado{
+    text-align: justify;
+}
+
+.imgBUSD{
+    width: 2em;
+}
+
+.styleButton{
+    background: yellow;
+    border-radius: 10%;
+    width: 15em;
+    height: 3em;
+    border: none;
+    padding: 10px;
+}
+
+li{
+    margin-right: 3em;
+    margin-left: 2em;
+
+}
+
+.divPasos{
+    margin-left: 3em;
+}
+
+.divTitulo{
+    background: #CFF0EA;
+    padding-top: 6em;
+    padding-left: 6em;
+}
+
+.divNFT{
+    background: #CFF0EA;
+    padding-top: 2em;
+}
